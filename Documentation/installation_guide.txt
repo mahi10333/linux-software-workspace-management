@@ -1,0 +1,43 @@
+Step 1:
+Update package information
+
+Step 2:
+Upgrade System Packages
+
+Step 3: 
+Install required toold: 
+git
+vim
+curl
+tree
+
+Step 4: 
+Create CompanyWorkspace Directory
+
+Step 5: 
+Create folders:
+Development
+Testing
+Production
+Documentation
+Team Members
+Backup
+Releases
+
+Step 6: 
+Create project modules:
+ProjectA
+ProjectB
+ProjectC
+
+Step 7: 
+Create project files and documentation
+
+Sep 8:
+configure file permissions
+
+Step 9:
+Create backup files
+
+Step 10: 
+Mve release files to Production

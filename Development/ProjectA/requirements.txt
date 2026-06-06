@@ -1,0 +1,5 @@
+Git Required
+
+Curl Required
+
+Vim Required
